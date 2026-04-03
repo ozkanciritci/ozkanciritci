@@ -15,7 +15,7 @@
 ### GitHub Stats
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=ozkanciritci&show_icons=true&theme=tokyonight"
     height="180"
   />
 </p>
@@ -23,7 +23,7 @@
 ### GitHub Activity
 <p>
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=ozkanciritci&theme=tokyonight"
     height="180"
   />
 </p>
