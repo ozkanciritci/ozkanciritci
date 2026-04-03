@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm OZKAN CIRITCI</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 ### About Me
