@@ -12,8 +12,6 @@
   />
 </p>
 
-<br/>
-
 <h2 align="center">Software Engineer</h2>
 
 <p align="center">
@@ -24,154 +22,32 @@
 
 <br/>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,java,cs,js,ts"
-    alt="Languages"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">Frameworks & Libraries</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=django,spring,nodejs,react"
-    alt="Frameworks"
-  />
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,cs,nodejs,js,ts,react,postgres" />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"
-    alt="Django REST Framework"
-  />
-  <img
-    src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    alt="React Native"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">Database & Data Tools</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=postgres"
-    alt="PostgreSQL"
-  />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,gcp,postman,vscode,github" />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"
-    alt="DBeaver"
-  />
-  <img
-    src="https://img.shields.io/badge/Google%20Cloud%20SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
-    alt="Google Cloud SQL"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">Cloud & DevOps</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=docker,linux,git,gcp"
-    alt="Cloud and DevOps"
-  />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetSuite-1B4F72?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SuiteQL-161B22?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"
-    alt="Railway"
-  />
-  <img
-    src="https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
-    alt="Google Cloud Run"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">APIs & Realtime</h3>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge"
-    alt="REST API"
-  />
-  <img
-    src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"
-    alt="OpenAPI"
-  />
-  <img
-    src="https://img.shields.io/badge/WebSocket-161B22?style=for-the-badge"
-    alt="WebSocket"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">AI & Model APIs</h3>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"
-    alt="OpenAI API"
-  />
-  <img
-    src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"
-    alt="Gemini API"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">Enterprise & Integrations</h3>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Oracle%20NetSuite-1B4F72?style=for-the-badge&logo=oracle&logoColor=white"
-    alt="Oracle NetSuite"
-  />
-  <img
-    src="https://img.shields.io/badge/SuiteQL-161B22?style=for-the-badge&logo=oracle&logoColor=white"
-    alt="SuiteQL"
-  />
-  <img
-    src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"
-    alt="Google Apps Script"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">Testing & Development Tools</h3>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"
-    alt="Pytest"
-  />
-  <img
-    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-    alt="Postman"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=vscode,github"
-    alt="Development Tools"
-  />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-161B22?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
 <br/>
@@ -179,23 +55,12 @@
 <h3 align="center">Engineering Focus</h3>
 
 <p align="center">
-  Backend Development
-  &nbsp;•&nbsp;
-  API Design
-  &nbsp;•&nbsp;
-  Database Design
-  &nbsp;•&nbsp;
-  Cloud Infrastructure
-</p>
-
-<p align="center">
-  System Design
-  &nbsp;•&nbsp;
-  REST Integrations
-  &nbsp;•&nbsp;
-  Realtime Systems
-  &nbsp;•&nbsp;
-  Distributed Systems
+  Backend Development &nbsp;•&nbsp;
+  API Design &nbsp;•&nbsp;
+  System Design &nbsp;•&nbsp;
+  Cloud Infrastructure &nbsp;•&nbsp;
+  Database Design &nbsp;•&nbsp;
+  Integrations
 </p>
 
 <br/>
@@ -205,33 +70,18 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ozkanciritci&theme=tokyonight&hide_border=true&border_radius=12"
-    height="180"
+    height="170"
     alt="GitHub Streak"
   />
 </p>
 
 <br/>
 
-<h3 align="center">Connect</h3>
-
 <p align="center">
   <a href="https://tr.linkedin.com/in/%C3%B6zkan-c%C4%B1r%C4%B1tc%C4%B1-704456252">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:ozkanciritciceng@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <sub>Backend · Cloud · Systems · Software Engineering</sub>
 </p>
