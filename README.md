@@ -49,10 +49,6 @@
     src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"
     alt="Railway"
   />
-  <img
-    src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"
-    alt="Claude"
-  />
 </p>
 
 <br/>
@@ -96,14 +92,14 @@
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://tr.linkedin.com/in/%C3%B6zkan-c%C4%B1r%C4%B1tc%C4%B1-704456252">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="mailto:YOUR_MAIL@gmail.com">
+  <a href="mailto:ozkanciritciceng@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
