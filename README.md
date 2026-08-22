@@ -35,12 +35,12 @@
 
 <br/>
 
-<h3 align="center">Tools & Cloud</h3>
+<h3 align="center">Cloud & DevOps</h3>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=docker,linux,git,gcp,postman,vscode"
-    alt="Development Tools"
+    src="https://skillicons.dev/icons?i=docker,linux,git,gcp"
+    alt="Cloud and DevOps"
   />
 </p>
 
@@ -48,6 +48,36 @@
   <img
     src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"
     alt="Railway"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">Platforms & Integration</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Oracle%20NetSuite-1B4F72?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="Oracle NetSuite"
+  />
+  <img
+    src="https://img.shields.io/badge/REST%20APIs-161B22?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST APIs"
+  />
+  <img
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+    alt="Postman"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=vscode,git,github"
+    alt="Development Tools"
   />
 </p>
 
@@ -68,7 +98,7 @@
 <p align="center">
   System Design
   &nbsp;•&nbsp;
-  Docker
+  REST Integrations
   &nbsp;•&nbsp;
   PostgreSQL
   &nbsp;•&nbsp;
