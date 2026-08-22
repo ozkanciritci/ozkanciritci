@@ -24,12 +24,56 @@
 
 <br/>
 
-<h3 align="center">Languages & Frameworks</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,django,java,spring,nodejs,js,ts,react,postgres"
-    alt="Languages and Frameworks"
+    src="https://skillicons.dev/icons?i=python,java,cs,js,ts"
+    alt="Languages"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">Frameworks & Libraries</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=django,spring,nodejs,react"
+    alt="Frameworks"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django REST Framework"
+  />
+  <img
+    src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React Native"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">Database & Data Tools</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=postgres"
+    alt="PostgreSQL"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"
+    alt="DBeaver"
+  />
+  <img
+    src="https://img.shields.io/badge/Google%20Cloud%20SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
+    alt="Google Cloud SQL"
   />
 </p>
 
@@ -49,11 +93,49 @@
     src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"
     alt="Railway"
   />
+  <img
+    src="https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
+    alt="Google Cloud Run"
+  />
 </p>
 
 <br/>
 
-<h3 align="center">Platforms & Integration</h3>
+<h3 align="center">APIs & Realtime</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge"
+    alt="REST API"
+  />
+  <img
+    src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"
+    alt="OpenAPI"
+  />
+  <img
+    src="https://img.shields.io/badge/WebSocket-161B22?style=for-the-badge"
+    alt="WebSocket"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">AI & Model APIs</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"
+    alt="OpenAI API"
+  />
+  <img
+    src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"
+    alt="Gemini API"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">Enterprise & Integrations</h3>
 
 <p align="center">
   <img
@@ -61,8 +143,23 @@
     alt="Oracle NetSuite"
   />
   <img
-    src="https://img.shields.io/badge/REST%20APIs-161B22?style=for-the-badge&logo=fastapi&logoColor=white"
-    alt="REST APIs"
+    src="https://img.shields.io/badge/SuiteQL-161B22?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="SuiteQL"
+  />
+  <img
+    src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"
+    alt="Google Apps Script"
+  />
+</p>
+
+<br/>
+
+<h3 align="center">Testing & Development Tools</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"
+    alt="Pytest"
   />
   <img
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
@@ -70,13 +167,9 @@
   />
 </p>
 
-<br/>
-
-<h3 align="center">Development Tools</h3>
-
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=vscode,git,github"
+    src="https://skillicons.dev/icons?i=vscode,github"
     alt="Development Tools"
   />
 </p>
@@ -100,7 +193,7 @@
   &nbsp;•&nbsp;
   REST Integrations
   &nbsp;•&nbsp;
-  PostgreSQL
+  Realtime Systems
   &nbsp;•&nbsp;
   Distributed Systems
 </p>
